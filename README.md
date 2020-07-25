@@ -1,4 +1,4 @@
-# wizGrade School Management System 
+# wizGrade School Management System / DAOU ENTERPRISE
 
 <b>wizGrade posted by DAOU ENTERPRISE</b> is Best Rated Open Source School Management System for Nursery, Primary and Secondary (K-12) School, Universities, Polytechnics, College of Educations, Awarding Institute e.t.c.
 
