@@ -1,6 +1,6 @@
 # wizGrade School Management System 
 
-<b>wizGrade</b> is Best Rated Open Source School Management System for Nursery, Primary and Secondary (K-12) School, Universities, Polytechnics, College of Educations, Awarding Institute e.t.c.
+<b>wizGrade posted by DAOU ENTERPRISE</b> is Best Rated Open Source School Management System for Nursery, Primary and Secondary (K-12) School, Universities, Polytechnics, College of Educations, Awarding Institute e.t.c.
 
 <b>wizGrade</b> is an Open Source and a perfect, best, complete, and flexible solution for school management and administration.
 
@@ -63,8 +63,6 @@ Our main aim is to help automate schools especially in Africa and the world at l
 <li>wizGrade Other Amazing Features</li>
 </ol>
 
-<h1 style="color:#551A8B !important;">Live Demo</h1>
-For a live demo <a href="https://www.k12.wizgrade.com">Click Here</a>
 
 <h1 style="color:#551A8B !important;">Installation Note</h1>
 <ol>
@@ -77,8 +75,3 @@ For a live demo <a href="https://www.k12.wizgrade.com">Click Here</a>
 </ol>
 <p>NOTE : You require PHP Version greater than <b>5</b> or below <b>7.0.8</b> for this script to work good. However, we are upgrading latest PHP version soon !</p>
        
-<h1 style="color:#551A8B !important;">Donate</h1>
-If you liked wizGrade and want to donate please <a href="https://www.wizgrade.com/?q=i#donate">Click Here</a>
-
-<h1 style="color:#551A8B !important;">Our Website</h1>
-<a href="https://www.wizgrade.com">Click Here</a>
